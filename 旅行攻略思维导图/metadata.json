@@ -1,0 +1,6 @@
+{
+  "name": "旅行攻略思维导图",
+  "description": "一个以层级化思维导图和流程交互展现的旅游目的地行程规划工具，支持树状图级联展开、景点深度玩乐介绍、路线地图与多维度数据总结，并提供个性化行程思维导图编辑设计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
